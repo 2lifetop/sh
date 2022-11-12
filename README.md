@@ -12,6 +12,9 @@ bash <(curl -Lso- https://2life.top/tcp.sh)
 
 bash <(curl -Lso- https://bench.im/hyperspeed)
 #http三网测速
+
+curl https://2life.top/route.sh|bash
+#三网回程脚本
 ```
 
 
