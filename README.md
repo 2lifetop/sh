@@ -15,8 +15,9 @@ bash <(curl -Lso- https://bench.im/hyperspeed)
 
 curl https://2life.top/route.sh|bash
 #三网回程脚本
+
+#流媒体解锁
+bash <(curl -L -s check.unlock.media) -M 4
 ```
-
-
 Speedtest-X: 下载cs.zip解压到网站根目录
 
