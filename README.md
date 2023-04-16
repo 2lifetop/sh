@@ -19,6 +19,9 @@ bash <(curl -Lso- https://bench.im/hyperspeed)
 curl https://2life.top/route.sh|bash
 #三网回程脚本
 
+bash <(curl -Ls https://cpp.li/openai)
+#openAI解锁
+
 
 bash <(curl -L -s check.unlock.media) -M 4
 #流媒体解锁
