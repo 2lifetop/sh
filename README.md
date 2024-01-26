@@ -4,7 +4,7 @@ Linux常用脚本大全
 VPS测速: bash <(curl -Lso- https://git.io/Jlkmw)
 
 ```
-curl -fsSL http://ilemonra.in/LemonBenchIntl | bash -s fast
+curl -L https://gitlab.com/spiritysdx/za/-/raw/main/ecs.sh -o ecs.sh && chmod +x ecs.sh && bash ecs.sh
 #全方位测评
 
 bash <(curl -Lso- https://2life.top/speedtest.sh)
